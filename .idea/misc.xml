@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="C:\Users\luanf\anaconda3" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="JupyterProject" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="etl-servidores-ifpb" project-jdk-type="Python SDK" />
 </project>
